@@ -83,7 +83,7 @@ SQL Server (T-SQL) · Power BI · Modelado Dimensional · Power Query · DAX · 
 └── (archivo .pbix y .bak)
 ```
 
-**[Ver informe completo (PDF)](docs/Informe_Ventas.pdf)**
+**[Ver informe completo (PDF)](docs/Proyecto2.pdf)**
 
 ## Notas
 
