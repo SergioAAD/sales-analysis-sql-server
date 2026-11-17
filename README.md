@@ -42,7 +42,7 @@ La información de ventas, clientes, inventarios y envíos de una empresa del se
 
 | Overview Comercial | Análisis de Clientes / Operaciones |
 |---|---|
-|**[Vista_General](img/sales_page-0001.jpg)** |**[Vista_Detalle](img/sales_page-0001.jpg**|
+|**[Vista_General](img/sales_page-0001.jpg)** |**[Vista_Detalle](img/sales_page-0001.jpg)**|
 
 ## Solución técnica
 
